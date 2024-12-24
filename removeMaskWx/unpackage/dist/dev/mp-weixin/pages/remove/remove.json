@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "万能去水印",
+  "usingComponents": {
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text",
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u-tabbar": "/uni_modules/uview-ui/components/u-tabbar/u-tabbar",
+    "u-tabbar-item": "/uni_modules/uview-ui/components/u-tabbar-item/u-tabbar-item"
+  }
+}

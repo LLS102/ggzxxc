@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "图集解析",
+  "usingComponents": {
+    "u--text": "/uni_modules/uview-ui/components/u--text/u--text",
+    "u-swiper": "/uni_modules/uview-ui/components/u-swiper/u-swiper",
+    "u-button": "/uni_modules/uview-ui/components/u-button/u-button",
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea"
+  }
+}

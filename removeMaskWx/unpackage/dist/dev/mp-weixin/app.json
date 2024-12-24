@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/remove/remove",
+    "pages/mine/mine",
+    "pages/index/introduction",
+    "pages/remove/problem",
+    "pages/remove/image",
+    "pages/remove/video",
+    "pages/index/announcemen",
+    "pages/removePicture/removePicture",
+    "pages/fileConversion/fileConversion"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "万能去水印",
+    "navigationBarBackgroundColor": "#3c9cff",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index"
+      },
+      {
+        "pagePath": "pages/remove/remove"
+      },
+      {
+        "pagePath": "pages/mine/mine"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

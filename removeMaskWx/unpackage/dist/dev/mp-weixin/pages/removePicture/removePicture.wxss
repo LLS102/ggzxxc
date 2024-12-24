@@ -1,0 +1,19 @@
+
+.coordinates.data-v-1e33e5fc {
+	margin-top: 20px;
+	font-size: 16px;
+}
+.remove.data-v-1e33e5fc {
+	padding: 20rpx 20rpx 20rpx 20rpx;
+}
+.remove-paste-submit-button.data-v-1e33e5fc {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.remove-paste-button.data-v-1e33e5fc,
+.remove-submit-button.data-v-1e33e5fc {
+	width: 45%;
+	box-shadow: 3px 3px 4px rgba(0, 102, 204, 0.2);
+}
+
