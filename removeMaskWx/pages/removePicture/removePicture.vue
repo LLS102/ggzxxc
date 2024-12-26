@@ -91,7 +91,7 @@
 			showPopup(url) {
 				this.showCanvas = false
 				// 模拟上传成功逻辑
-				this.uploadedImageUrl = 'https://lilisen.top/api/display/image/' + url
+				this.uploadedImageUrl = 'http://127.0.0.1：8004/api/display/image/' + url
 				// 替换为实际图片URL
 				this.popupVisible = true;
 
@@ -106,7 +106,7 @@
 				this.showCanvas = true
 				this.popupVisible = false; // 关闭弹窗
 			},
-			//  https://lilisen.top/api/download/video/20241223155150849_yBEHscbGahiu48383c08bcbd83c74beb43f8b68a6fc4.png
+			
 			downloadImage(url) {
 				uni.showLoading({
 					title: '保存中'
