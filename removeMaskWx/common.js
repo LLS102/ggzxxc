@@ -1,8 +1,6 @@
 module.exports = {
 	// 下面请填写你的后端域名
 	baseURL: "http://127.0.0.1:8004",
-	// baseURL: "http://43.136.113.76:8004",
-	// baseURL: "https://lilisen.top",
 
 	
 	tabbarChange(url) {
