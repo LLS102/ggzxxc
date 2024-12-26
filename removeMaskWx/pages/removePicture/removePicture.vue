@@ -331,7 +331,7 @@
 				console.log(this.imageUrl);
 				let token = uni.getStorageSync('token');
 				uni.uploadFile({
-					url: 'https://lilisen.top/api/upload/image', // 替换为你的后端上传接口
+					url: 'https://127.0.0.1:80/api/upload/image', // 替换为你的后端上传接口
 					filePath: this.imageUrl,
 					name: 'file', // 后端接收文件的字段名
 					header: {
